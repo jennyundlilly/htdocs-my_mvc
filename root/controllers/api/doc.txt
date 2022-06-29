@@ -1,0 +1,11 @@
+https://www.w3jar.com/php-login-and-registration-restful-api/
+https://www.w3jar.com/react-js-php-mysql-db-login-registration-system/
+
+200 ok
+401 nicht eingeloggt
+
+411 eingabe fehlerhaft
+421 email forhanden
+431 password stimmt nicht einander
+441 fasche email oder password
+451
